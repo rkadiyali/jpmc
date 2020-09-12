@@ -6,7 +6,7 @@ import static org.redquark.demo.core.constants.AppConstants.SERVICE_USER_ID;
 import static org.redquark.demo.core.constants.AppConstants.SERVICE_USER_GROUP_NAME;
 
 import javax.jcr.RepositoryException;
-import javax.jcr.Session;
+//import javax.jcr.Session;
 
 import org.apache.jackrabbit.api.security.user.Group;
 import org.apache.jackrabbit.api.security.user.User;
